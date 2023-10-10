@@ -3,3 +3,8 @@ Toys{id=2, nameToys='Мяч', frequency=50}
 Toys{id=2, nameToys='Мяч', frequency=50}
 Toys{id=1, nameToys='Кукла', frequency=20}
 Toys{id=1, nameToys='Кукла', frequency=20}
+Toys{id=2, nameToys='Мяч', frequency=50}
+Toys{id=1, nameToys='Кукла', frequency=20}
+Toys{id=4, nameToys='Машина', frequency=40}
+Toys{id=1, nameToys='Кукла', frequency=20}
+Toys{id=4, nameToys='Машина', frequency=40}
