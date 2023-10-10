@@ -19,6 +19,7 @@ public class StoreToys {
         }
         return prizes;
     }
+    //лотерея
     public Toys lottery(PriorityQueue<Toys> pq) {
         Toys result = null;
         Random random = new Random();
@@ -28,6 +29,7 @@ public class StoreToys {
         }
         return result;
     }
+    //запись данных в файл
     public void fileWriter(ArrayList<Toys> toys, Integer number)  {
         try {
             FileWriter writer = new FileWriter("toys.txt", true);
