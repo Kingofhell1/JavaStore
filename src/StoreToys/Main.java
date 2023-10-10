@@ -14,6 +14,7 @@ public class Main {
         toys.add(new Toys(3, "Машина", 40));
         toys.add(new Toys(4, "Настольная игра", 5));
         toys.add(new Toys(5, "Робот", 15));
+        //number - это кол-во призов
         storeToys.fileWriter(toys , 5);
 
 
